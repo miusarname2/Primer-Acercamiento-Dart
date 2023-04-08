@@ -28,6 +28,11 @@ in `lib/`, and sample unit test in `test/`.
 ## 🧐 Context
 
 This is a "little test" of DART, its "syntax" and its development mode, I promise to bring more things related to DART & Flutter as I will start working with DART for a CAMPUS {Proggrammers Land} project
+</br>
+</br>
+</br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg">
+<br></br>
 
 ## 🤔 What did I do?
 
