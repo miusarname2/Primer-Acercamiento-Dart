@@ -5,9 +5,9 @@ en `lib/`, y prueba unitaria de ejemplo en `test/`.
 ## Docuemtacion " Propia "
 
 # 🧐 Contexto
-Esta es una 
-<br>
-<br>
-<br>
+Esta es una " pruebita " de DART, su "sintaxis" y su modo de desarrollo, prometo traer más cosas relacionadas con DART & Flutter pues empezare a trabajar con DART para un proyecto de <strong> CAMPUS {Proggrammers Land} <strong>
+</br>
+</br>
+</br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg">
 
